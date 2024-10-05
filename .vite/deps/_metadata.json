@@ -1,40 +1,40 @@
 {
-  "hash": "37ae7785",
+  "hash": "cea01d5e",
   "configHash": "a1a7f7bb",
-  "lockfileHash": "af63dd1c",
-  "browserHash": "9f66b800",
+  "lockfileHash": "4295ceaa",
+  "browserHash": "2b7fa8b9",
   "optimized": {
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "e2a4e178",
+      "fileHash": "52b54192",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "7d947496",
+      "fileHash": "b68c2e84",
       "needsInterop": true
     },
     "react-router-dom": {
       "src": "../../node_modules/react-router-dom/dist/index.js",
       "file": "react-router-dom.js",
-      "fileHash": "71ae711e",
+      "fileHash": "3e8cbdf5",
       "needsInterop": false
     },
     "miragejs": {
       "src": "../../node_modules/miragejs/dist/mirage.mjs",
       "file": "miragejs.js",
-      "fileHash": "fc8ab8fe",
+      "fileHash": "f2d5bf43",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-ESOPAGXE": {
-      "file": "chunk-ESOPAGXE.js"
+    "chunk-HCGKX5ED": {
+      "file": "chunk-HCGKX5ED.js"
     },
-    "chunk-RHPDEHY5": {
-      "file": "chunk-RHPDEHY5.js"
+    "chunk-WNPTCGAH": {
+      "file": "chunk-WNPTCGAH.js"
     },
     "chunk-5WRI5ZAA": {
       "file": "chunk-5WRI5ZAA.js"
